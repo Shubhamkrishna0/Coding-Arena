@@ -54,6 +54,3 @@ A huge thanks to all contributors and the competitive programming community for 
 
 Happy coding! 🌟
 
----
-
-Feel free to adjust the description as needed, especially the links and repository paths, to match your actual repository setup.

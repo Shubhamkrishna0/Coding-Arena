@@ -14,4 +14,3 @@ main()
     else
      cout<<"NO"<<endl;
   }
-}

@@ -4,7 +4,6 @@ using namespace std;
 
 using ll = long long;
 
-
 void solve() {
 	int n;
 	cin >> n;
@@ -54,6 +53,7 @@ void solve() {
 		cout << a[i] << " \n"[i == n];
 	}
 	cout.flush();
+
 }
 
 

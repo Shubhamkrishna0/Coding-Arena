@@ -14,7 +14,7 @@ Welcome to the **Competitive Programming in C++** repository! This is your one-s
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/competitive-programming-cpp.git
+   git clone https://github.com/yourusername/file-name.git
    cd competitive-programming-cpp
    ```
 

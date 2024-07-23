@@ -44,7 +44,7 @@ Contributions are welcome! If you have a great algorithm, a solution to a challe
 
 ### 💬 Community
 
-Join the discussion, share your insights, and get help from fellow coders! Check out the [Discussions](https://github.com/yourusername/competitive-programming-cpp/discussions) page for more.
+Join the discussion, share your insights, and get help from fellow coders! Check out the [Discussions](https://github.com/yourusername/file-name/discussions) page for more.
 
 ### ⭐ Acknowledgments
 
